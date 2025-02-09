@@ -1,0 +1,54 @@
+# LEGO Miniature House - CHANGELOG
+
+## Version 1.2.0 - (YYYY-MM-DD)
+### Added:
+- New **garden area** with trees and a fence.
+- **Interior furniture** including a bed, table, and chairs.
+- **Transparent windows** for a more realistic look.
+
+### Changed:
+- Improved **roof design** for better stability.
+- Adjusted **wall colors** to match a modern aesthetic.
+- Reorganized building steps for **easier assembly**.
+
+### Fixed:
+- Corrected misaligned bricks in the **door frame**.
+- Fixed overlapping bricks in the **roof section**.
+
+---
+
+## Version 1.1.0 - (YYYY-MM-DD)
+### Added:
+- **New roof style** with sloped tiles.
+- **Front porch with steps**.
+- **Instruction Mode steps** for better clarity.
+
+### Changed:
+- Adjusted **wall height** for a more compact design.
+- Improved **structural support** to reduce floating bricks.
+
+### Fixed:
+- Fixed a **missing brick** in the door frame.
+- Corrected part colors that weren’t available in real LEGO sets.
+
+---
+
+## Version 1.0.0 - (YYYY-MM-DD)
+### Initial Release:
+- **First version of the LEGO Miniature House.**
+- Includes a **basic house structure**, **roof**, and **windows**.
+- Fully built in **LEGO Studio 2.0** with step-by-step instructions.
+
+---
+
+## How to Use This Changelog
+- Each update should follow the format: **Version X.Y.Z - (YYYY-MM-DD)**
+- Use:
+  - **Added** for new features or elements.
+  - **Changed** for modifications to existing parts.
+  - **Fixed** for corrections and bug fixes.
+- Keep track of **major, minor, and patch updates** to document progress.
+
+---
+
+Happy Building! 🚀

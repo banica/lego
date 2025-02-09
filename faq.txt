@@ -1,0 +1,48 @@
+# LEGO Miniature House - FAQ
+
+## 1. What software do I need to open this model?
+You need **LEGO Studio 2.0**, which can be downloaded for free from:  
+[https://www.bricklink.com/v3/studio/download.page](https://www.bricklink.com/v3/studio/download.page)
+
+## 2. How do I open the model file?
+1. Install and open LEGO Studio 2.0.
+2. Click **File > Open** and select the `.io` file included in this project.
+3. Use **Building Mode** to see step-by-step instructions.
+
+## 3. Can I modify the model?
+Yes! You can edit the design, change colors, add or remove elements, and even expand the house using LEGO Studio 2.0.
+
+## 4. How can I generate a parts list to build this in real life?
+1. Open the `.io` file in LEGO Studio.
+2. Click **Model Info** and select **Export as a parts list**.
+3. You can use this list to order missing bricks from **BrickLink** or check your existing LEGO collection.
+
+## 5. Some bricks don’t exist in my LEGO collection. What can I do?
+If a part is unavailable, you can:
+- **Check BrickLink** for individual piece purchases.
+- **Replace it with a similar part** from your own collection.
+- **Modify the design** to fit the bricks you have.
+
+## 6. Can I print physical instructions?
+Yes! In LEGO Studio:
+1. Open the model and go to **Instruction Mode**.
+2. Generate building steps and export them as a PDF for printing.
+
+## 7. The model won’t load or crashes LEGO Studio. What should I do?
+Try the following:
+- Ensure you have the latest version of LEGO Studio.
+- Restart the software and try opening the file again.
+- If the file is too complex, disable high-quality rendering in settings.
+
+## 8. Can I share my modifications of this model?
+Absolutely! Feel free to customize and share your own versions. If you share online, crediting the original design is appreciated.
+
+## 9. How can I add new elements like furniture or extra rooms?
+- Use LEGO Studio’s **Brick Palette** to find additional parts.
+- **Duplicate and modify existing sections** to expand the model.
+- Try **new color schemes and patterns** to enhance the design.
+
+## 10. Where can I get help if I have more questions?
+If you need further assistance, check the official LEGO Studio forums or contact me directly.
+
+Happy Building! 🚀
